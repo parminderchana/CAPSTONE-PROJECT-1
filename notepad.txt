@@ -1,0 +1,4 @@
+change the name of title
+reseach questions should be in the qques format
+ cross fold : we split the data into fold in any number however here the target variable can be imbalaced
+to remove this drawback we than use stratified k fold where the target varibale is always taken as balaced ratio.
